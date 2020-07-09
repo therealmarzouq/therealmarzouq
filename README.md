@@ -2,7 +2,7 @@
 ***
 Hi,I'm Marzouq Mohammed-Ali, Software Engineer based in Lagos. I'm a developer with a great taste for design and top notch products.
 
-A few of the tools i use :hammer_and_wrench:
+A few of the tools i use :hammer_and_wrench: .
  *Sass/Scss
  *Less
  *Angular
