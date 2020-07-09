@@ -2,6 +2,14 @@
 ***
 Hi,I'm Marzouq Mohammed-Ali, Software Engineer based in Lagos. I'm a developer with a great taste for design and top notch products.
 
+A few of the tools i use :wrench:
+ -Sass/Scss
+ -Less
+ -Angular
+ -Typescript
+ -React
+ -Ionic
+
 I'm always available for collaborations, Find me on [twitter](https://twitter.com/__marzouq), [linkedin](https://www.linkedin.com/in/marzouq-mohammed-b17021156/) 
 <!--
 **Marzouq-mohd/Marzouq-mohd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
