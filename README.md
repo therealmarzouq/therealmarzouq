@@ -10,6 +10,7 @@ A few of the tools i use :hammer_and_wrench: .
  * React
  * Ionic
  * Vue
+ * Serverless (AWS)
 
 
 I'm always available for collaborations, Find me on [twitter](https://twitter.com/__marzouq), [linkedin](https://www.linkedin.com/in/marzouq-mohammed-b17021156/) 
