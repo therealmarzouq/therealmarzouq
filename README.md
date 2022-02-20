@@ -13,7 +13,7 @@ A few of the tools i use :hammer_and_wrench: .
  * Serverless (AWS)
 
 
-I'm always available for collaborations, Find me on [twitter](https://twitter.com/__marzouq), [linkedin](https://www.linkedin.com/in/marzouq-mohammed-b17021156/) 
+I'm always available for collaborations, Find me on [twitter](https://twitter.com/realmarzouq), [linkedin](https://www.linkedin.com/in/marzouq-mohammed-b17021156/) 
 <!--
 **Marzouq-mohd/Marzouq-mohd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
