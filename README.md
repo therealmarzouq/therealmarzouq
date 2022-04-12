@@ -1,6 +1,6 @@
 ### Aloha 👋
 ***
-Hi,I'm Marzouq Mohammed-Ali, Software Engineer based in Lagos. I'm a developer with a great taste for design and top notch products.
+Hi,I'm Marzouq, Software Engineer based in Lagos. I'm a developer with a great taste for design and top notch products.
 
 A few of the tools i use :hammer_and_wrench: .
  * Sass/Scss
@@ -8,6 +8,7 @@ A few of the tools i use :hammer_and_wrench: .
  * Angular
  * Typescript
  * React
+ * Next JS
  * Ionic
  * Vue
  * Serverless (AWS)
