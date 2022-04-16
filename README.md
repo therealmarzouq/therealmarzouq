@@ -1,33 +1,7 @@
-### Aloha 👋
-***
-Hi,I'm Marzouq, Software Engineer based in Lagos. I'm a developer with a great taste for design and top notch products.
 
-A few of the tools i use :hammer_and_wrench: .
- * Sass/Scss
- * Less
- * Angular
- * Typescript
- * Go
- * Gin
- * React
- * Next JS
- * Ionic
- * Vue
- * Serverless (AWS)
+### Hello there 👋
 
+My name is Marzouq. I am a seasoned Front-end engineer with 5 years of passion in creating experience-driven products. I am proficient in Angular, React, JavaScript and TypeScript development.
 
-I'm always available for collaborations, Find me on [twitter](https://twitter.com/therealmarzouq), [linkedin](https://www.linkedin.com/in/therealmarzouq/) 
-<!--
-**Marzouq-mohd/Marzouq-mohd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... F
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
+I'm mostly available for collaborations, Find me on [twitter](https://twitter.com/therealmarzouq), [linkedin](https://www.linkedin.com/in/therealmarzouq/).
+If you have any questions/problems with @angular or need any other frontend advice? Feel free to reach out to me. I'll try my best to help you. Thanks for visiting my Github :)
