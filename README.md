@@ -1,7 +1,7 @@
+### Hi there 👋
 
-### Hello there 👋
+I'm Marzouq, a seasoned Front-end Engineer with 5 years of experience and a deep passion for crafting experience-driven products. My expertise spans Angular, Next.js, React, JavaScript, TypeScript, Node.js, and Go.
 
-My name is Marzouq. I am a seasoned Front-end engineer with 5 years of passion in creating experience-driven products. I am proficient in Angular, Next.Js, React, JavaScript and TypeScript development.
+I'm always open to exciting collaborations! You can connect with me on [Twitter](https://twitter.com/therealmarzouq) or [LinkedIn](https://www.linkedin.com/in/therealmarzouq/).
 
-I'm mostly available for collaborations, Find me on [twitter](https://twitter.com/therealmarzouq), [linkedin](https://www.linkedin.com/in/therealmarzouq/).
-If you have any questions/problems with @angular or need any other frontend advice? Feel free to reach out to me. I'll try my best to help you. Thanks for visiting my Github :)
+Thanks for visiting my GitHub! 😊
